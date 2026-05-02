@@ -22,7 +22,7 @@ This project analyzes differences between online and in-store retail performance
 - Data Visualization
 
 ## Files
-- `online_vs_instore_analysis.html` — Full statistical report
+[View Full Report](online_vs_instore_analysis.pdf)
   
 ## Key Insights
 - Statistical differences identified between retail channels
